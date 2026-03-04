@@ -1,6 +1,7 @@
 # entregamodulo_1
 
 **grupo joulie faraday**
+---
 
 - Emanuel Gomez <https://github.com/emanuel-gomez-rastrilla/modulo_1>
 - Valentino Giampietri <https://github.com/ValentinoGiampietri/Modulo_1>
