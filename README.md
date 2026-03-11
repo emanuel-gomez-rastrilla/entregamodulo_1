@@ -11,4 +11,5 @@
 | Ana Clara Daniela| Godoy | https://github.com/anagodoyy85/modulo_1  |+5492615779048|
 
 
-![fotootof](https://github.com/user-attachments/assets/2326b8d0-b707-44f4-980f-b6b10a77cd47)
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_cjrc7kcjrc7kcjrc" src="https://github.com/user-attachments/assets/8732d6c6-09bd-48e0-a082-5ebc282938ce" />
