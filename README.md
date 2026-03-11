@@ -9,3 +9,4 @@
 | Mattia| Malnis | https://github.com/mattiamalnis/modulo_1 |+5492612458592|
 | Mauricio| Mansur | https://github.com/mauricio-mansur/modulo_1 |+5492612564460|
 | Ana Clara Daniela| Godoy | https://github.com/anagodoyy85/modulo_1  |+5492615779048|
+![fotootof](https://github.com/user-attachments/assets/2326b8d0-b707-44f4-980f-b6b10a77cd47)
