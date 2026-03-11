@@ -2,7 +2,7 @@
 
 **grupo joulie faraday**
 
-| Nombre | Malnis| Enlace de GitHub | Whatsapp|
+| Nombre | Apellido| Enlace de GitHub | Whatsapp|
 | :--- | :--- | :--- |:--- |
 | Emanuel| Gomez | https://github.com/emanuel-gomez-rastrilla/modulo_1 |+5492615584339|
 | Valentino| Giampietri | https://github.com/ValentinoGiampietri/Modulo_1 |+5492616306983|
