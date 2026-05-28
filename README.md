@@ -27,7 +27,7 @@
 | Emanuel| Gomez |  |+5492615584339|
 | Valentino| Giampietri | https://github.com/ValentinoGiampietri/Modulo-3 |+5492616306983|
 | Mattia| Malnis |https://github.com/mattiamalnis/Modulo_3/tree/main |+5492612458592|
-| Mauricio| Mansur | |+5492612564460|
+| Mauricio| Mansur | https://github.com/mauricio-mansur/Modulo-3 |+5492612564460|
 | Ana Clara Daniela| Godoy |https://github.com/anagodoyy85/modulo_3 |+5492615779048|
 
 ![](https://github.com/user-attachments/assets/a65f5bb9-32af-482c-a1cc-f7531b4961cd)
