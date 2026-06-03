@@ -24,7 +24,7 @@
 
 | Nombre | Apellido| Enlace de GitHub | Whatsapp|
 | :--- | :--- | :--- |:--- |
-| Emanuel| Gomez |  |+5492615584339|
+| Emanuel| Gomez | https://github.com/emanuel-gomez-rastrilla/modulo_3 |+5492615584339|
 | Valentino| Giampietri | https://github.com/ValentinoGiampietri/Modulo-3 |+5492616306983|
 | Mattia| Malnis |https://github.com/mattiamalnis/Modulo_3/tree/main |+5492612458592|
 | Mauricio| Mansur | https://github.com/mauricio-mansur/Modulo-3 |+5492612564460|
