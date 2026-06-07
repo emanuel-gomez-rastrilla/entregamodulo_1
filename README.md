@@ -35,7 +35,7 @@
 | Nombre | Apellido| Enlace de GitHub | Whatsapp|
 | :--- | :--- | :--- |:--- |
 | Emanuel| Gomez |https://github.com/emanuel-gomez-rastrilla/modulo_4/tree/main  |+5492615584339|
-| Valentino| Giampietri |  |+5492616306983|
+| Valentino| Giampietri | https://github.com/ValentinoGiampietri/Modulo-4 |+5492616306983|
 | Mattia| Malnis | https://github.com/mattiamalnis/Modulo_4/tree/main |+5492612458592|
 | Mauricio| Mansur | https://github.com/mauricio-mansur/Modulo_4/tree/main |+5492612564460|
 | Ana Clara Daniela| Godoy |https://github.com/anagodoyy85/modulo_4/tree/main |+5492615779048|
